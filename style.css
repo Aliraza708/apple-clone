@@ -22,8 +22,8 @@
 
 
 .footer-first-shortcut-links {
-    background-color: #121212;
-    color: #fff;
+    background-color: #d1cccc;
+    color: #0b0b0b;
     padding: 40px 0;
     display: flex;
     justify-content: space-evenly;
@@ -38,7 +38,7 @@
   
   .footer-first-shortcut-links .links a {
     font-size: 14px;
-    color: #ddd;
+    color: #080808;
     text-decoration: none;
     display: block;
     margin-bottom: 10px;
